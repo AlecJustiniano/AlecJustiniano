@@ -13,9 +13,17 @@
     1. sublista
 
 [texto da imagem](https://www.google.com/url?sa=i&url=https%3A%2F%2Fg1.globo.com%2Frj%2Frio-de-janeiro%2Fnoticia%2F2024%2F02%2F18%2Fpraia-de-ipanema-e-eleita-a-2a-melhor-do-mundo-por-guia-de-viagens.ghtml&psig=AOvVaw0l-5o6VExuPadFvVf-upol&ust=1739283995461000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCxtvenuYsDFQAAAAAdAAAAABAE.jpg)
+> Texto Da Citações
 
-![texto da imagem](https://www.google.com/url?sa=i&url=https%3A%2F%2Fg1.globo.com%2Frj%2Frio-de-janeiro%2Fnoticia%2F2024%2F02%2F18%2Fpraia-de-ipanema-e-eleita-a-2a-melhor-do-mundo-por-guia-de-viagens.ghtml&psig=AOvVaw0l-5o6VExuPadFvVf-upol&ust=1739283995461000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCxtvenuYsDFQAAAAAdAAAAABAE.jpg)
-  
+| Cabeçalho 1 | Cabeçalho 2 |
+| ----------- | ----------- | 
+| Texto 1     | Texto 2     |
+| Texto 3     | Tes=xto 4   |
+
+
+-[x] Tarefa 1
+- [] Tarefa 2
+
 <!--
 **AlecJustiniano/AlecJustiniano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
