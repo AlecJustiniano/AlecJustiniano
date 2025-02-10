@@ -13,7 +13,7 @@ pela Faculdade Impacta Tecnologia.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px">
-<\p>
+</p>
 
 
 ![AlecJustiniano's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlecJustiniano&show_icons=true&theme=tokyonight)
