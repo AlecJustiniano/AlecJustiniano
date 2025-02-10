@@ -7,18 +7,13 @@ Estou cursando Análise e Desenvolvimento de Sistemas
 pela Faculdade Impacta Tecnologia.
 
 ![ 📖  Acesse o meu Linkedin! ](https://www.linkedin.com/in/alec-lemos-b13542267/)
+--------
 
------
+<p aling="center>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100px" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px" >
+<\p>
+--------
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" >
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![AlecJustiniano's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlecJustiniano&show_icons=true&theme=tokyonight)
