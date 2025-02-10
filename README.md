@@ -1,5 +1,4 @@
 ## Sejam bem-vindos ao meu GITHUB
-Here are some ideas to get you started:
 
 Olá me chamo Alec Justiniano!
 
@@ -8,6 +7,7 @@ pela Faculdade Impacta Tecnologia.
 
 ![ 📖  Acesse o meu Linkedin! ](https://www.linkedin.com/in/alec-lemos-b13542267/)
 
+### Tecnologias que utilizo
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
