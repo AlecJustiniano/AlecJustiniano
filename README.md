@@ -1,12 +1,16 @@
 ## Hi there 👋
 <!-- Cabeçalho-->
-# titulo 1
-## titulo 2
-### titulo 3
-#### titulo 4
-##### titulo 5
 
+*italico* ou _italico_
 
+**negrito** ou __negrito__
+
+- lista 1
+- lista 2
+    -sublista
+1. lista 1
+2. lista 2
+    1. sublista 
 <!--
 **AlecJustiniano/AlecJustiniano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
